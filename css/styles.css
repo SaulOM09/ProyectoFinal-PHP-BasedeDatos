@@ -1,0 +1,36 @@
+<@charset "utf-8";
+
+
+	.bg {
+		background: grey;
+	}
+
+	.navb {
+		padding: 1px;
+		background-color: navy;
+		color: tomato;
+	}
+
+	.tablasT{
+		background: black; 
+		color: yellow;
+	}
+	
+	.tablasC{
+		background: lightgrey; 
+		color: black;
+	}
+
+	.tituloT {
+		color: tomato;
+		font-family: monospace;
+	}
+
+	.SubT {
+		color: yellow;
+		font-family: monospace;
+	}
+
+	.subp {
+		color: lime;
+	}
